@@ -1,2 +1,5 @@
 # passwort.py
-a super easy Passwort-generator made with mpython.
+a super easy Passwort-generator made with python.
+
+- The passworts are between 8 and 16 characters.
+- The passwort will be directly printed and should also be printed to a file called output.txt
